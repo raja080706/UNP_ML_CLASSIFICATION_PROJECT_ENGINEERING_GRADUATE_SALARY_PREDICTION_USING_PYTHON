@@ -31,7 +31,7 @@ The models were evaluated and compared using different train-test split ratios. 
 
 The results showed that ensemble methods such as Gradient Boosting, Random Forest, and XGBoost achieved competitive performance. ANN experiments also demonstrated how different network architectures influenced prediction results. Overall, the project compares multiple Machine Learning approaches to identify patterns associated with engineering graduates' salary categories.
 
-This is the link for classification project google collab file
+This is the link for classification project google colab file
 https://drive.google.com/file/d/1pzO4RyCud_NACwp8YMTXntRtba1DXoFE/view?usp=sharing
 
 This is the link for classification project presentation
